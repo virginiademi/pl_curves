@@ -2,7 +2,7 @@ This software is automatically tested by Travis-CI after each build. Current bui
 [![Build Status](https://travis-ci.org/virginiademi/pl_curves.svg?branch=master)](https://travis-ci.org/virginiademi/pl_curves)
 
 Code coverage: 
-[![codecov]([![codecov](https://codecov.io/gh/virginiademi/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/virginiademi/pl_curves))
+[![codecov](https://codecov.io/gh/virginiademi/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/virginiademi/pl_curves)
 
 # Introduction
 
